@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vikramsamak
-- 👀 I’m interested in C JAVA PYTHON HTML CSS JS 
+- 👀 I’m interested in C HTML CSS JS 
 - 🌱 I’m currently learning C HTML CSS JS 
 
 - 📫 You can reach me vikramsamak02@gmail.com
